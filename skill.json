@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-vestibular-ocular-reflex-otolith-postural-sway-skill",
+  "version": "1.0.0",
+  "title": "Vestibular Ocular Reflex & Otolith Postural Sway Skill",
+  "category": "Personal Agent (Bio / Neuro-Vestibular Balance)",
+  "description": "Analyzes 3-axis accelerometer/gyroscope sway area, Center of Pressure (CoP) velocity, Romberg quotient, and video-HIT VOR gain to preserve longevity balance and prevent falls.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "quantify_postural_vestibular_stability"
+  ],
+  "dependencies": []
+}
